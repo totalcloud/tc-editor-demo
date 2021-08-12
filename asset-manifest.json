@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tc-editor-demo/static/css/main.a617e044.chunk.css",
+    "main.js": "/tc-editor-demo/static/js/main.b9f8095b.chunk.js",
+    "main.js.map": "/tc-editor-demo/static/js/main.b9f8095b.chunk.js.map",
+    "runtime-main.js": "/tc-editor-demo/static/js/runtime-main.5cf3bea0.js",
+    "runtime-main.js.map": "/tc-editor-demo/static/js/runtime-main.5cf3bea0.js.map",
+    "static/css/2.b73db722.chunk.css": "/tc-editor-demo/static/css/2.b73db722.chunk.css",
+    "static/js/2.def96a07.chunk.js": "/tc-editor-demo/static/js/2.def96a07.chunk.js",
+    "static/js/2.def96a07.chunk.js.map": "/tc-editor-demo/static/js/2.def96a07.chunk.js.map",
+    "static/js/3.aad85f2b.chunk.js": "/tc-editor-demo/static/js/3.aad85f2b.chunk.js",
+    "static/js/3.aad85f2b.chunk.js.map": "/tc-editor-demo/static/js/3.aad85f2b.chunk.js.map",
+    "index.html": "/tc-editor-demo/index.html",
+    "static/css/2.b73db722.chunk.css.map": "/tc-editor-demo/static/css/2.b73db722.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/tc-editor-demo/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.def96a07.chunk.js.LICENSE.txt": "/tc-editor-demo/static/js/2.def96a07.chunk.js.LICENSE.txt",
+    "static/media/jsoneditor.css": "/tc-editor-demo/static/media/jsoneditor-icons.15f2789d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cf3bea0.js",
+    "static/css/2.b73db722.chunk.css",
+    "static/js/2.def96a07.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b9f8095b.chunk.js"
+  ]
+}
